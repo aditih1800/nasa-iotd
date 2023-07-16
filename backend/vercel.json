@@ -1,0 +1,14 @@
+{
+    "builds": [
+        {
+            "src":"./appbe.js",
+            "use":"@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest":"/appbe.js"
+        }
+    ]
+}

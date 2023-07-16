@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #492e7c;
+  }
+  
+  body {
+    background-color: rgb(156, 187, 195);
+    margin: 0;
+  }
+  
+  .container {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .picture-explanation-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #picture {
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  #explanation {
+    margin-bottom: 1rem;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
