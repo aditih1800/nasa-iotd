@@ -3,6 +3,9 @@ Nasa-IOTD is a webpage showcasing NASA's captivating Astronomy Image of the Day,
 
 To access the code, please download the zip file OR check out the nasa-iotd branch to view the code. The most important folders are public, src, and templates. The file with the most function is appbe.js, which is in the src folder. Public holds the frontend for the integration of the API, and so does index.hbs in the views folder. User registration and login are in src and templates. 
 
+Here's a video demo of the webpage:
+https://youtu.be/4_vAKVfrNv0
+
 Key Features:
 - Access NASA's Astronomy Image of the Day: Explore a vast collection of captivating astronomical images and information sourced directly from NASA's API.
 - Dynamic Daily Updates: Discover a new awe-inspiring astronomy image every day, providing a fascinating glimpse into the wonders of the universe.
